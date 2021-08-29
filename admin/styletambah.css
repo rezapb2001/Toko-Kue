@@ -1,0 +1,17 @@
+body {
+    background-image: url("../gambar/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.tombol-tambah {
+    background-color: rgb(117, 77, 48);
+    border-color: white;
+    color: white;
+}
+
+.tombol-tambah:hover {
+    color: rgb(117, 77, 48);
+    background-color: white;
+    border-color: rgb(117, 77, 48);
+}

@@ -1,0 +1,10 @@
+.tombolbayar {
+    background-color: rgb(117, 77, 48);
+    color: white;
+}
+
+.tombolbayar:hover {
+    color: rgb(117, 77, 48);
+    border-color: rgb(117, 77, 48);
+    background-color: white;
+}

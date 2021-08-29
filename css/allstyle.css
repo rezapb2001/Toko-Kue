@@ -1,0 +1,90 @@
+body {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.kepala {
+    background-color: rgb(117, 77, 48);
+    padding-left: 100px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.namatoko {
+    border-right: 2px gold solid;
+    height: 150px;
+    font-size: 100px;
+    color: gold;
+}
+
+.batas {
+    background-color: gold;
+    height: 30px;
+}
+
+.log-reg {
+    position: relative;
+    left: 50%;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+.loggis {
+    color: gold;
+    border-color: gold;
+}
+
+.loggis:hover {
+    color: white;
+    border-color: white;
+    text-decoration: none;
+}
+
+.followig {
+    font-family: 'Arial';
+    font-weight: bolder;
+    color: rgb(83, 50, 28);
+    font-size: 30px;
+}
+
+.ig {
+    color: rgb(117, 77, 48);
+    font-family: 'Arial';
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.ig:hover {
+    color: gold;
+    font-family: 'Arial';
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.alignwa {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.fontkontenwa {
+    font-family: 'Arial';
+    color: rgb(83, 50, 28);
+    font-size: 30px;
+}
+
+.wa {
+    color: rgb(117, 77, 48);
+    font-family: 'Arial';
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+.wa:hover {
+    color: gold;
+    font-family: 'Arial';
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 35px;
+}

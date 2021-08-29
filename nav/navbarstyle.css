@@ -1,0 +1,27 @@
+.bgnavbar {
+    background-color: rgb(117, 77, 48);
+}
+
+.warfon {
+    color: white;
+}
+
+.warfon:hover {
+    color: gold;
+}
+
+.warfon1 {
+    color: gold;
+}
+
+.warfon1:hover {
+    color: gold;
+}
+
+.warfon2 {
+    color: white;
+}
+
+.warfon2:hover {
+    color: rgb(117, 77, 48);
+}

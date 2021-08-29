@@ -1,0 +1,41 @@
+.bgfooter {
+    background-color: rgb(117, 77, 48);
+    padding: 20px 100px 20px 100px;
+}
+
+.warfonft {
+    color: gold;
+}
+
+.phone {
+    color: white;
+}
+
+.phone:hover {
+    text-decoration: none;
+    color: gold;
+}
+
+.button {
+    background-color: rgb(117, 77, 48);
+    border-color: gold;
+    color: gold;
+}
+
+.button:hover {
+    color: white;
+    border-color: white;
+    text-decoration: none;
+}
+
+.button-katalog {
+    background-color: gold;
+    border-color: white;
+    color: rgb(117, 77, 48);
+}
+
+.button-katalog:hover {
+    background-color: white;
+    color: rgb(117, 77, 48);
+    border-color: rgb(117, 77, 48);
+}

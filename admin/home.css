@@ -1,0 +1,43 @@
+.bgnav {
+    background-color: rgb(117, 77, 48);
+}
+
+.hmnav {
+    color: white
+}
+
+.hmnav:hover {
+    color: gold;
+    text-decoration: none;
+}
+
+.tombol {
+    border-color: white;
+    color: white;
+}
+
+.tombol:hover {
+    border-color: gold;
+    color: gold;
+}
+
+.bg-headtabel {
+    background-color: rgb(117, 77, 48);
+}
+
+.tentangisi-text {
+    color: rgb(117, 77, 48);
+    font-family: 'Times New Roman';
+}
+
+.edit-hapus {
+    background-color: rgb(117, 77, 48);
+    border-color: white;
+    color: white;
+}
+
+.edit-hapus:hover {
+    color: rgb(117, 77, 48);
+    background-color: white;
+    border-color: rgb(117, 77, 48);
+}
